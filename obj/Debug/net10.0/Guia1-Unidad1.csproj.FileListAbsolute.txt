@@ -1,0 +1,15 @@
+C:\Users\carlo\Projects 2\Guia-1-Unidad-1-POO-IIPAC2026\Guia1-Unidad1\bin\Debug\net10.0\Guia1-Unidad1.exe
+C:\Users\carlo\Projects 2\Guia-1-Unidad-1-POO-IIPAC2026\Guia1-Unidad1\bin\Debug\net10.0\Guia1-Unidad1.deps.json
+C:\Users\carlo\Projects 2\Guia-1-Unidad-1-POO-IIPAC2026\Guia1-Unidad1\bin\Debug\net10.0\Guia1-Unidad1.runtimeconfig.json
+C:\Users\carlo\Projects 2\Guia-1-Unidad-1-POO-IIPAC2026\Guia1-Unidad1\bin\Debug\net10.0\Guia1-Unidad1.dll
+C:\Users\carlo\Projects 2\Guia-1-Unidad-1-POO-IIPAC2026\Guia1-Unidad1\bin\Debug\net10.0\Guia1-Unidad1.pdb
+C:\Users\carlo\Projects 2\Guia-1-Unidad-1-POO-IIPAC2026\Guia1-Unidad1\obj\Debug\net10.0\Guia1-Unidad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Projects 2\Guia-1-Unidad-1-POO-IIPAC2026\Guia1-Unidad1\obj\Debug\net10.0\Guia1-Unidad1.AssemblyInfoInputs.cache
+C:\Users\carlo\Projects 2\Guia-1-Unidad-1-POO-IIPAC2026\Guia1-Unidad1\obj\Debug\net10.0\Guia1-Unidad1.AssemblyInfo.cs
+C:\Users\carlo\Projects 2\Guia-1-Unidad-1-POO-IIPAC2026\Guia1-Unidad1\obj\Debug\net10.0\Guia1-Unidad1.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Projects 2\Guia-1-Unidad-1-POO-IIPAC2026\Guia1-Unidad1\obj\Debug\net10.0\Guia1-Unidad1.dll
+C:\Users\carlo\Projects 2\Guia-1-Unidad-1-POO-IIPAC2026\Guia1-Unidad1\obj\Debug\net10.0\refint\Guia1-Unidad1.dll
+C:\Users\carlo\Projects 2\Guia-1-Unidad-1-POO-IIPAC2026\Guia1-Unidad1\obj\Debug\net10.0\Guia1-Unidad1.pdb
+C:\Users\carlo\Projects 2\Guia-1-Unidad-1-POO-IIPAC2026\Guia1-Unidad1\obj\Debug\net10.0\Guia1-Unidad1.genruntimeconfig.cache
+C:\Users\carlo\Projects 2\Guia-1-Unidad-1-POO-IIPAC2026\Guia1-Unidad1\obj\Debug\net10.0\ref\Guia1-Unidad1.dll
+C:\Users\carlo\Projects 2\Guia-1-Unidad-1-POO-IIPAC2026\Guia1-Unidad1\obj\Debug\net10.0\Guia1-Unidad1.sourcelink.json
