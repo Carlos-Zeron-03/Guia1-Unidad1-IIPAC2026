@@ -1,8 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace Guia1_Unidad1.Bloque_1
 {
     public class DesgloseBilletes
