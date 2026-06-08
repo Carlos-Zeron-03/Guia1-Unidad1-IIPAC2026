@@ -1,5 +1,7 @@
 ﻿using Guia1_Unidad1.Bloque_1;
 using Guia1_Unidad1.Bloque_2;
+using Guia1_Unidad1.Bloque_3;
+using Guia1_Unidad1.Bloque_4;
 
 namespace Guia1_Unidad1 
 {
@@ -26,7 +28,29 @@ namespace Guia1_Unidad1
             //CalculadoraDescuentos calculadoraDescuentos = new CalculadoraDescuentos();
             //AñoBisiestoYDiasMes añoBisiestoYDiasMes = new AñoBisiestoYDiasMes();
             //ValidadorFecha validadorFecha = new ValidadorFecha();
-            CajeroAutomatico cajeroAutomatico = new CajeroAutomatico();
+            //CajeroAutomatico cajeroAutomatico = new CajeroAutomatico();
+
+
+            /**BLOQUE 3 DE EJERCICIOS**/
+
+            //TablaMultiplicarExtendida tablaMultiplicarExtendida = new TablaMultiplicarExtendida();
+            //NumerosPrimosEnRango numerosPrimosEnRango = new NumerosPrimosEnRango();
+            //SerieFibonacci serieFibonacci = new SerieFibonacci();
+            //FactorialYCombinaciones factorialYCombinaciones = new FactorialYCombinaciones();
+            //JuegoAdivinanza juegoAdivinanza = new JuegoAdivinanza();
+            //ValidaciónContraseña validaciónContraseña = new ValidaciónContraseña();
+            //PatronAsteriscos patronAsteriscos = new PatronAsteriscos();
+            //CalculadoraMenu calculadoraMenu = new CalculadoraMenu();
+
+
+            /**BLOQUE 4 DE EJERCICIOS**/
+
+            //EstadisticasCalificaciones estadisticasCalificaciones = new EstadisticasCalificaciones();
+            //BusquedaYOrdenamiento busquedaYOrdenamiento = new BusquedaYOrdenamiento();
+            //RotacionArreglo rotacionArreglo = new RotacionArreglo();
+            //FrecuenciaElementos frecuenciaElementos = new FrecuenciaElementos();
+            ArregloTemperaturas arregloTemperaturas = new ArregloTemperaturas();
+
         }
     }
 }
