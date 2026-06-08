@@ -2,6 +2,7 @@
 using Guia1_Unidad1.Bloque_2;
 using Guia1_Unidad1.Bloque_3;
 using Guia1_Unidad1.Bloque_4;
+using Guia1_Unidad1.Bloque_5;
 
 namespace Guia1_Unidad1 
 {
@@ -49,7 +50,14 @@ namespace Guia1_Unidad1
             //BusquedaYOrdenamiento busquedaYOrdenamiento = new BusquedaYOrdenamiento();
             //RotacionArreglo rotacionArreglo = new RotacionArreglo();
             //FrecuenciaElementos frecuenciaElementos = new FrecuenciaElementos();
-            ArregloTemperaturas arregloTemperaturas = new ArregloTemperaturas();
+            //ArregloTemperaturas arregloTemperaturas = new ArregloTemperaturas();
+
+
+            /**BLOQUE 5 DE EJERCICIOS**/
+
+            //MatrizNotasParcial matrizNotasParcial = new MatrizNotasParcial();
+            //TicTacToe ticTacToe = new TicTacToe();
+            //InventarioSimple inventarioSimple = new InventarioSimple();
 
         }
     }
